@@ -1,2 +1,2 @@
 # defi-lend-borrow-crowdfund
-A decentralized DeFi platform for peer-to-peer lending, borrowing, and crowdfunding. Users can borrow ERC-20 tokens by providing collateral, propose business ideas for community-backed crowdfunding, and participate in platform governance. 
+A decentralized finance (DeFi) platform on Ethereum for lending, borrowing, and crowdfunding. This platform enables users to borrow ERC-20 tokens against collateral, repay loans with interest, and raise funds for projects via crowdfunding campaigns. Built with Truffle, Solidity, and Next.js
